@@ -1,0 +1,16 @@
+{
+  "name": "tech.review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.2",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
